@@ -8,8 +8,8 @@ All language files for Pilots Life can be found here.
 ## Contributors
 A special thanks go out to these people for these languages!
 
-- English
-	- alexdev
+> - English
+>	- alexdev
 
-- French
-	- alexdev
+> - French
+>	- alexdev
