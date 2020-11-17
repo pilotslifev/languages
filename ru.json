@@ -1,0 +1,8 @@
+{
+    "WELCOME_PLAYER_CONNECT": "Добро пожаловать на Pilots Life:V!",
+    "WELCOME_PLAYER_LOGIN": "С возвращением на Pilots Life:V!",
+    "WELCOME_PLAYER_LOGIN_SUB": "Вы успешно авторизовались как, {0}",
+    "WELCOME_PLAYER_REGISTER": "С возвращением на Pilots Life:V!",
+    "WELCOME_PLAYER_REGISTER_SUB": "Вы успешно зарегистрировались как, {0}",
+    "SERVER_ACTION": "Действия сервера"
+}
