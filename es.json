@@ -1,0 +1,10 @@
+{
+    "WELCOME_PLAYER_CONNECT": "Bienvenido a Pilots Life: V!",
+    "WELCOME_PLAYER_LOGIN": "Bienvenido de nuevo a Pilots Life: V!",
+    "WELCOME_PLAYER_LOGIN_SUB": "Has iniciado sesión correctamente, {0}",
+    "WELCOME_PLAYER_REGISTER": "Bienvenido de nuevo a Pilots Life: V!",
+    "WELCOME_PLAYER_REGISTER_SUB": "Se ha registrado exitosamente, {0}",
+    "SERVER_ACTION": "Acción del servidor",
+    "LOGIN_ACCOUNT_NOT_EXIST": "No existen cuentas con este nombre de usuario.",
+    "LOGIN_ACCOUNT_INCORRECT_PASS": "Ha introducido una contraseña incorrecta."
+}

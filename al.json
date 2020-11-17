@@ -4,5 +4,7 @@
     "WELCOME_PLAYER_LOGIN_SUB": "Ju sapo u kycet me sukses, {0}",
     "WELCOME_PLAYER_REGISTER": "Miresevini ne Pilots Life:V!",
     "WELCOME_PLAYER_REGISTER_SUB": "Ju sapo u regjistruat me sukses, {0}",
-    "SERVER_ACTION": "Aksion i Serverit"
+    "SERVER_ACTION": "Aksion i Serverit",
+    "LOGIN_ACCOUNT_NOT_EXIST": "Nuk e gjend asnje llogari me kete emer.",
+    "LOGIN_ACCOUNT_INCORRECT_PASS": "Fjalekalimi juaj eshte i gabuar!"
 }
