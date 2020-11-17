@@ -21,6 +21,9 @@ A special thanks go out to these people for these languages!
 > - Albanian
 >   - jvson03
 
+> - Spanish
+>   - jvson03
+
 > - Turkish
 >   - jvson03
 

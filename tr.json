@@ -4,5 +4,7 @@
     "WELCOME_PLAYER_LOGIN_SUB": "Başarıyla giriş yaptınız, {0}",
     "WELCOME_PLAYER_REGISTER": "Pilots Life:V'ye tekrar hoş geldiniz!",
     "WELCOME_PLAYER_REGISTER_SUB": "Başarıyla kayıt oldunuz, {0}",
-    "SERVER_ACTION": "Sunucu"
+    "SERVER_ACTION": "Sunucu",
+    "LOGIN_ACCOUNT_NOT_EXIST": "Bu kullanıcı adına sahip hiçbir hesap yok.",
+    "LOGIN_ACCOUNT_INCORRECT_PASS": "Yanlış bir şifre girdiniz."
 }
