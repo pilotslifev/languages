@@ -4,5 +4,7 @@
     "WELCOME_PLAYER_LOGIN_SUB": "You have successfully logged in, {0}",
     "WELCOME_PLAYER_REGISTER": "Welcome back to Pilots Life:V!",
     "WELCOME_PLAYER_REGISTER_SUB": "You have successfully registered, {0}",
-    "SERVER_ACTION": "Server Action"
+    "SERVER_ACTION": "Server Action",
+    "LOGIN_ACCOUNT_NOT_EXIST": "No accounts with this username exist.",
+    "LOGIN_ACCOUNT_INCORRECT_PASS": "You've entered an incorrect password."
 }
