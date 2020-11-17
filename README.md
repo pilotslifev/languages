@@ -25,7 +25,7 @@ A special thanks go out to these people for these languages!
 >   - jvson03
 
 > - Hindi
->  - Maxth9
+>   - Maxth9
 
 > - Russian
 >   - Disinterpreter
