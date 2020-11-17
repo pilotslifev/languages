@@ -5,6 +5,7 @@ All language files for Pilots Life can be found here.
 - English
 - French
 - Albanian
+- Spanish
 - Turkish
 - Russian
 - Hindi
