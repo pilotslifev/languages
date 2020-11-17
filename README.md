@@ -21,3 +21,6 @@ A special thanks go out to these people for these languages!
 
 > - Turkish
 >   - jvson03
+
+> - Russian
+>   - disinterpreter
