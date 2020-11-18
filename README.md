@@ -9,6 +9,7 @@ All language files for Pilots Life can be found here.
 - Turkish
 - Russian
 - Hindi
+- Japanese
 
 ## Contributors
 A special thanks go out to these people for these languages!
@@ -33,3 +34,6 @@ A special thanks go out to these people for these languages!
 
 > - Hindi
 >   - Maxth9
+
+> - Japanese
+>   - itzmisuzu
