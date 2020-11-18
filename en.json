@@ -10,5 +10,6 @@
     "ADMIN_ACTION": "Admin Action",
     "VEHICLE_SPAWNED_SUB": "You have successfully spawned a {0}, {1}.",
     "VEHICLE_SPAWNED": "Vehicle spawned!",
-    "GLOBAL_PLAYER_CONNECTED": "{0}{1} has just connected from {2}."
+    "GLOBAL_PLAYER_CONNECTED": "{0}{1} has just connected from {2}.",
+    "RANDOM_MESSAGE_1": "Tip: Want to join the military? You can join the military once you have >250."
 }
