@@ -6,5 +6,8 @@
     "WELCOME_PLAYER_REGISTER_SUB": "You have successfully registered, {0}",
     "SERVER_ACTION": "Server Action",
     "LOGIN_ACCOUNT_NOT_EXIST": "No accounts with this username exist.",
-    "LOGIN_ACCOUNT_INCORRECT_PASS": "You've entered an incorrect password."
+    "LOGIN_ACCOUNT_INCORRECT_PASS": "You've entered an incorrect password.",
+    "ADMIN_ACTION": "Admin Action",
+    "VEHICLE_SPAWNED_SUB": "You have successfully spawned a {0}, {1}.",
+    "VEHICLE_SPAWNED": "Vehicle spawned!"
 }
