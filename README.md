@@ -1,6 +1,9 @@
 # languages
 All language files for Pilots Life can be found here.
 
+## Notes
+* Key GLOBAL_PLAYER_CONNECTED has a colour as its first argument.
+
 ## Translations
 - English
 - French
