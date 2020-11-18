@@ -10,5 +10,5 @@
     "ADMIN_ACTION": "Admin Action",
     "VEHICLE_SPAWNED_SUB": "You have successfully spawned a {0}, {1}.",
     "VEHICLE_SPAWNED": "Vehicle spawned!",
-    "GLOBAL_PLAYER_CONNECTED": "{0} has just connected from {1}."
+    "GLOBAL_PLAYER_CONNECTED": "{0}{1} has just connected from {2}."
 }
