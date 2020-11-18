@@ -10,5 +10,5 @@
     "ADMIN_ACTION": "Admin Kriya",
     "VEHICLE_SPAWNED_SUB": "aapane ek {0}, {1} ko saphalataapoorvak spawn kiya hai",
     "VEHICLE_SPAWNED": "Aapane ek vaahan spawn kiya hai! ", 
-    "GLOBAL_PLAYER_CONNECTED": "{0}, {1} se connect kar liya hai."
+    "GLOBAL_PLAYER_CONNECTED": "{0}{1}, {2} se connect kar liya hai."
 }
