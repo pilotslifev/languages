@@ -4,5 +4,11 @@
     "WELCOME_PLAYER_LOGIN_SUB": "Aap saphalata poorvak pravesh kar chuke hai, {0}",
     "WELCOME_PLAYER_REGISTER": "Pilots Life:V mein aapka vaapasi svaagat hai!",
     "WELCOME_PLAYER_REGISTER_SUB": "Aap saphalata poorvak register kar chuke hai, {0}",
-    "SERVER_ACTION": "Server Kriya"
+    "SERVER_ACTION": "Server Kriya",
+    "LOGIN_ACCOUNT_NOT_EXIST": "Is upayogakarta naam ka koee account maujood nahin hai.",
+    "LOGIN_ACCOUNT_INCORRECT_PASS": "Aapane ek galat password enter kiya hai.",
+    "ADMIN_ACTION": "Admin Kriya",
+    "VEHICLE_SPAWNED_SUB": "aapane ek {0}, {1} ko saphalataapoorvak spawn kiya hai",
+    "VEHICLE_SPAWNED": "Aapane ek vaahan spawn kiya hai! ", 
+    "GLOBAL_PLAYER_CONNECTED": "{0}{1}, {2} se connect kar liya hai."
 }
