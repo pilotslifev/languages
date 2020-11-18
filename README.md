@@ -5,9 +5,11 @@ All language files for Pilots Life can be found here.
 - English
 - French
 - Albanian
+- Spanish
 - Turkish
 - Russian
 - Hindi
+- Japanese
 
 ## Contributors
 A special thanks go out to these people for these languages!
@@ -21,6 +23,9 @@ A special thanks go out to these people for these languages!
 > - Albanian
 >   - jvson03
 
+> - Spanish
+>   - jvson03
+
 > - Turkish
 >   - jvson03
 
@@ -29,3 +34,6 @@ A special thanks go out to these people for these languages!
 
 > - Hindi
 >   - Maxth9
+
+> - Japanese
+>   - itzmisuzu
